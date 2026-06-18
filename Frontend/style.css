@@ -5,4 +5,8 @@
 .login-container, .register-container {
     text-align: center;
     background-color: pink;
+    width: 400px;
+    padding: 15px;
+    text-align: center;
 }
+
