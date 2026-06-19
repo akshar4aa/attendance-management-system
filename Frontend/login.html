@@ -14,20 +14,29 @@
   </head>
   <body>
     <nav class="navbar bg-primary">
-        <div class="container-fluid d-flex justify-content-between">
-            <span class="text-white justify-content-between">Attendance Management System</span>
+        <div class="container-fluid d-flex justify-content-center">
+            <span class="text-white text-center">Attendance Management System</span>
         </div>
     </nav>
-    <div class="container-fluid text-center">
-      <h1>Login Page</h1> <br>
+    <div class="login-container container-fluid text-center">
+      <h3>Login Page</h3> <br>
       <form>
         
-         <label class="form-label">Email address</label>
-         <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com"><br>
-         <label>Password</label> 
-         <label class="form-label"></label>
-         <input type="password" class="form-control" id="exampleFormControlInput1" placeholder="password">
-        <button id="login-btn">Login</button>
+         <label class="form-label">Email</label>
+        <input
+          type="email"
+          class="form-control"
+          id="exampleFormControlInput1"
+          placeholder="name@example.com"
+        /> <br>
+        <label class="form-label">password</label>
+        <input
+          type="password"
+          class="form-control"
+          id="exampleFormControlInput1"
+          placeholder="password"
+        />
+        <button id="login-btn" class="btn btn-primary mt-3">Login</button>
         <p>New user? <a href="register.html">Click here to register</a></p>
         
     <script src="login.js"></script>
