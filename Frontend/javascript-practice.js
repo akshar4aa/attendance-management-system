@@ -157,3 +157,9 @@
 //     console.log("i'm in callbackfunction")
 // }
 // higherorderfunction(callbackfunction)
+
+
+const arr=[20, 30, 40, 50]
+const arr2=arr.map(function(num){
+    return num*2
+})
