@@ -159,7 +159,7 @@
 // higherorderfunction(callbackfunction)
 
 
-const arr=[20, 30, 40, 50]
-const arr2=arr.map(function(num){
-    return num*2
-})
+// const arr=[20, 30, 40, 50]
+// const arr2=arr.map(function(num){
+//     return num*2
+// })
