@@ -33,3 +33,23 @@ redectlaration is not possible but reinitialization is possible
 redectlaration and reinittialization is not possible
 const is a block scope and functional scope but basically it is a *block scope*
 practically const is prefered
+
+**OPERATORS**
+- Arithematic operators
+- Assignment operators
+- Comparision operators
+- Equality operators
+- Logical operators
+- Increment & Decrement operators
+- Conditional operators
+- Bitwise operators
+
+# Assignment operator
+a++ ==> post increment
+++a ==> pre increment
+a-- ==> post decrement
+--a ==> pre decrement
+
+# Equality operator
+Loose equality (==) --> comapring only value
+Strict equality (===) --> comparing 
