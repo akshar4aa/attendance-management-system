@@ -53,3 +53,72 @@
 // else{
 //     console.log("c is greater")
 // }
+
+
+//check driving license
+// const age = 19
+// const license = true
+// if (age >= 18) {
+//     if(license){
+//         console.log("eligible")
+//     }
+// }
+//     else{
+//         console.log("not eligible")
+// }
+
+
+// const day = 3
+// switch (day) {
+//     case 1:
+//         console.log("Monday")
+//         break;
+//     case 2:
+//         console.log("Tuesday")
+//         break;  
+//     case 3:
+//         console.log("Wednesday")
+//         break;
+//     case 4:
+//         console.log("Thursday")
+//         break;
+//     case 5:
+//         console.log("Friday")
+//         break;
+
+//     default
+//         console.log("weekend")
+//         break;
+// }
+// const array = ["akshara", "varun", "priya", "sindhu"]
+// for(let name of array){
+//     console.log(name)
+// }
+// const obj = {
+//     name: "samsung A50",
+//     disc: "stylish phone",
+//     price: 25000
+// }
+// for(let mobile in obj){
+//     console.log(mobile)
+// }
+
+// const array2 = [{
+//     name: "samsung",
+//     description: "stylish",
+//     price: 25000
+// },{
+//     name: "vivo",
+//     description: "simple",
+//     price: 20000
+// },{
+
+//     name:"apple",
+//     description: "classy",
+//     price: 60000
+// }]
+// for(let mobile of array2){
+//     for(let details in mobile){
+//     console.log(mobile[details])
+// }
+// }
