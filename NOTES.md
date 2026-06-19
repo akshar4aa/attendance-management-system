@@ -53,3 +53,12 @@ a-- ==> post decrement
 # Equality operator
 Loose equality (==) --> comapring only value
 Strict equality (===) --> comparing 
+
+**TYPES  OF FUNCTIONS**
+- Function declaration
+- Function expression
+- Arrow expression
+- Anonymous expression
+
+# Callback func
+- Afunction is acting like a parameter to the other function

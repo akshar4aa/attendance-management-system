@@ -122,3 +122,38 @@
 //     console.log(mobile[details])
 // }
 // }
+
+
+//function declaration
+// function mern(){
+//     console.log("welcome to mern stack classes")
+// }
+// mern()
+
+// //function expression
+// const frontend = function(){
+//     console.log("lets start frontend")
+//     return "Frontend completed"
+// }
+// const a = frontend()
+// console.log(a)
+// // frontend()
+
+// //arrow function
+// const fullstack =()=>{
+//     console.log("learninng full stack")
+//     return "full stack completed"
+// }
+// const backend = () =>  "Backend completed"
+// const b= backend()
+// console.log(b)
+
+//callback function
+// const higherorderfunction = (a) => {
+//     console.log("you are in HOF")
+//     console.log(a)
+// }
+// const callbackfunction = () => {
+//     console.log("i'm in callbackfunction")
+// }
+// higherorderfunction(callbackfunction)
